@@ -6,6 +6,8 @@ GitHub markdownに数式を埋め込むテスト
 
 [A hack for showing LaTeX formulas in GitHub markdown.md](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b)
 
+[Mathematical expressions](https://www.overleaf.com/learn/latex/mathematical_expressions)
+
 # Greek letters
 
 |Greek letters| |
@@ -19,7 +21,7 @@ GitHub markdownに数式を埋め込むテスト
 
 # etc
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=\large e^{i \pi} = -1">
 
 # トロイダルコイルのインダクタンス
 
@@ -31,8 +33,10 @@ GitHub markdownに数式を埋め込むテスト
 |l |m| 磁路長|
 |L |H|トロイダルコイルのインダクタンス|
 
-<img src="https://render.githubusercontent.com/render/math?math=L= \frac{ \mu s n^2 }{ l}">
+<img src="https://render.githubusercontent.com/render/math?math=\LARGE L= \frac{ \mu s n^2 }{ l}">
 
-文字を大きくする方法は不明。（できないもよう）
+大きい式
+
+<img src="https://render.githubusercontent.com/render/math?math=\Huge L= \frac{ \mu s n^2 }{ l}">
 
 
